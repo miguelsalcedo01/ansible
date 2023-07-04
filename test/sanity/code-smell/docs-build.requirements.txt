@@ -22,7 +22,7 @@ multidict==6.0.2
 packaging==21.3
 perky==0.5.5
 pydantic==1.10.2
-Pygments==2.13.0
+Pygments==2.15.0
 pyparsing==3.0.9
 pytz==2022.2.1
 PyYAML==6.0
