@@ -46,5 +46,5 @@ sphinxcontrib-serializinghtml==1.1.5
 straight.plugin==1.5.0
 Twiggy==0.5.1
 typing_extensions==4.3.0
-urllib3==1.26.12
+urllib3==1.26.17
 yarl==1.8.1
